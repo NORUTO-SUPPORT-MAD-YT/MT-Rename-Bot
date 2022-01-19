@@ -9,8 +9,8 @@
     "Rename"
   ],
   "success_url": "https://t.me/MO_TECH_GROUP",
-  "website": "https://github.com/MoTechYT",
-  "repository": "https://github.com/MRK-YT/MT-Rename-Bot",
+  "website": "https://github.com/NORUTO-SUPPORT-MAD-YT/MT-Rename-Bot",
+  "repository": "https://github.com/NORUTO-SUPPORT-MAD-YT/MT-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
